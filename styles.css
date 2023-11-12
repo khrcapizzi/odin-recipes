@@ -1,0 +1,36 @@
+h1, h2, h3 {color: #ff005d;
+    font-family: "Andale Mono", monospace;
+
+}
+
+.center {text-align:center;}
+
+a {color: #48ff45;
+    font-weight: 800;
+    text-align:center;
+}
+
+ul, ol {color: #4173ff;
+    font-family: Courier;
+    font-size: 20px;
+}
+
+.hot {color: #e66165;
+    
+}
+
+.description {font-size: 15px;
+            font-family: "Courier New";
+            color: #50304d;
+            background-color: #6769ff;
+}
+
+html {background-color: #7fb589}
+
+div {height: auto; width: 300px;}
+
+.face {background-image: url(./images/cooking.png);
+       background-size: 25px 50px;
+}
+
+.links {text-align: center;}
